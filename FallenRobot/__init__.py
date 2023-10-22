@@ -50,7 +50,7 @@ if ENV:
     STRICT_GBAN = bool(os.environ.get("STRICT_GBAN", True))
     SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "DevilsHeavenMF")
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
-    TOKEN = os.environ.get("TOKEN", 6967041161:AAGdOrxhOJuCecWzP_cA2hxXnYoL7d-hlak)
+    TOKEN = os.environ.get("TOKEN", 6864309682:AAF2Pi4SKJvCY4rZ7RA9mSl0v2sBEi0QLVA)
     TIME_API_KEY = os.environ.get("TIME_API_KEY", None)
     WORKERS = int(os.environ.get("WORKERS", 8))
 
